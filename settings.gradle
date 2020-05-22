@@ -1,0 +1,3 @@
+rootProject.name='MyCoronaLib'
+include ':app'
+include ':coronareport'
